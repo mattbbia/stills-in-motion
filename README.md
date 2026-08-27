@@ -2,7 +2,7 @@
 
 A dark Omarchy theme inspired by the motion photography of Eadweard Muybridge.
 
-![GitHub stars](https://img.shields.io/github/stars/mattbbia/stills-in-motion-omarchy?style=flat-square) ![License](https://img.shields.io/github/license/mattbbia/stills-in-motion-omarchy?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/mattbbia/stills-in-motion-omarchy?style=flat-square) ![License](https://img.shields.io/github/license/mattbbia/stills-in-motion-omarchy?style=flat-square) ![Omarchy Quattro Ready](https://img.shields.io/badge/Omarchy-Quattro%20Ready-brightgreen?style=flat-square)
 
 ![Omarchy Eadweard Muybridge Theme](preview.png)
 
@@ -55,19 +55,13 @@ This theme includes seven carefully selected motion photographs:
 - Chromium
 - Foot
 - Ghostty
-- GTK
 - Hyprland
-- Hyprlock
 - Kitty
-- Mako
 - Neovim
-- SwayOSD
+- Omarchy Shell (bar, lock screen, notifications, launcher, on-screen display)
 - Vencord
 - VS Code
-- Walker
 - Warp
-- Waybar
-- Wofi
 - Zellij
 
 ## Installation
