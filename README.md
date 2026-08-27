@@ -2,7 +2,7 @@
 
 A dark Omarchy theme inspired by the motion photography of Eadweard Muybridge.
 
-![GitHub stars](https://img.shields.io/github/stars/mattbbia/stills-in-motion-omarchy?style=flat-square) ![License](https://img.shields.io/github/license/mattbbia/stills-in-motion-omarchy?style=flat-square) ![Omarchy Quattro Ready](https://img.shields.io/badge/Omarchy-Quattro%20Ready-brightgreen?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/mattbbia/stills-in-motion-omarchy?style=flat-square) ![License](https://img.shields.io/github/license/mattbbia/stills-in-motion-omarchy?style=flat-square) <img src="omarchy-icon.png" width="20" height="20" alt="Omarchy" title="Omarchy Quattro Ready"> ![Omarchy Quattro Ready](https://img.shields.io/badge/Omarchy-Quattro%20Ready-brightgreen?style=flat-square)
 
 ![Omarchy Eadweard Muybridge Theme](preview.png)
 
